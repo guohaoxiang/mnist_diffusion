@@ -10,7 +10,7 @@ from tqdm.auto import tqdm
 exp_name = 'cm1024_ep80'
 
 batch_size = 1024
-n_epochs = 80
+n_epochs = 1
 steps = 50
 learning_rate = 1e-3
 
